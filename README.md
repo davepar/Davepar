@@ -4,16 +4,16 @@
 
 ### Currently
 
-- Developing a freemium activity hub.
+- Developing a new web property called Gatherist.app, a hub for organizing groups and activities.
 - Excited about [Svelte](https://svelte.dev/) frontend framework (compiler?).
 - Exploring [Supabase](https://supabase.com/) as a serverless(-ish) backend.
-- Favorite tech: Typescript, Python, open source anything.
+- Favorite tech: Typescript, Python, Postgres, open source anything, coding on Chromebook.
 
 ### Previously
 
 - 10 years at Google working on the [Cloud Console](https://console.cloud.google.com).
 - Various web and embedded projects at start-ups, Microsoft, Canon, Dynon Avionics, and [more](https://www.linkedin.com/in/davidmparsons/).
-- Founded a successful flight planning site called RunwayFinder that was killed off by a patent troll.
+- Founded a successful flight planning site called RunwayFinder that was brought down by a patent troll.
 
 ### Freetime
 
