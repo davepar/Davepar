@@ -4,7 +4,7 @@
 
 ### Currently
 
-- Developed a new site for groups and events: [Gatherist][https://gatherist.org].
+- Developed a new site for groups and events: [Gatherist](https://gatherist.org).
   - Tech: Astro, Preact, PostgreSQL, shadcn/ui (Tailwind), Playwright.
   - Minimal dependent services: Google Cloud, Resend, Stripe.
 - Favorite tech: Typescript, PostgreSQL, open source anything, coding in Zed on Linux Mint.
